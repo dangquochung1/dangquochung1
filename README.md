@@ -10,8 +10,8 @@
 ⚡ **Sở thích thú vị:** Ngoài thời gian code, mình còn dành thời gian học tiếng Hàn (đặc biệt là các chủ đề về 생활 정보 - thông tin đời sống).
 
 🛠 **Tech Stack & Công cụ:**
-- **Ngôn ngữ:** Java, TypeScript, HTML/CSS
-- **Frameworks/Libraries:** Angular, Spring Boot, Flutter
+- **Ngôn ngữ:** Java, Javascript/TypeScript, HTML/CSS
+- **Frameworks/Libraries:** React, Spring Boot
 - **Database & Hosting:** MySQL, Supabase, Docker, Vercel
 - **Version Control:** Git & GitHub
 
