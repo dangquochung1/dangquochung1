@@ -5,9 +5,9 @@
 🔭 **Hiện tại mình đang tập trung vào:**
 - Phát triển các dự án Full-stack với combo yêu thích: **React** (Frontend), **Spring Boot** (Backend) và **MySQL**.
 - Nghiên cứu cơ chế board game và đang xây dựng phiên bản web online cho tựa game Tokaido, phục vụ cho sở thích cá nhân và thực hành coding.
-- Trau dồi kiến thức kiểm thử và ôn tập cho chứng chỉ **ISTQB CTFL**.
 
-⚡ **Sở thích thú vị:** Ngoài thời gian code, mình còn dành thời gian học tiếng Hàn (đặc biệt là các chủ đề về 생활 정보 - thông tin đời sống).
+
+⚡ **Sở thích thú vị:** Ngoài thời gian code, mình còn...
 
 🛠 **Tech Stack & Công cụ:**
 - **Ngôn ngữ:** Java, Javascript/TypeScript, HTML/CSS
